@@ -1,0 +1,18 @@
+body{
+    background-color: lightblue;
+    font-family: 'Sassy Frass', cursive;
+}
+#footer
+{
+    font-size:80px;
+}
+@media  (max-width: 600px) {
+    body {
+      background-color: grey;
+    }
+  }
+
+  input:hover
+  {
+    background:#c1c1c1;
+  }
